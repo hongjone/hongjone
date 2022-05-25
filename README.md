@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there 👋   I'm hongjone
+
+- 👀 I’m interested in coding
+- 🌱 I’m currently learning to code
+- 💬 Ask me about Product Managment! Don't really get any time to code. Lol.
 
 <!--
 **hongjone/hongjone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
